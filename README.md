@@ -1,2 +1,2 @@
 #Command to run the code 
-npx vite
+: npx vite
